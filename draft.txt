@@ -1,2 +1,0 @@
-From : Yi
-This is to verify if VSCode and Git could work properly
